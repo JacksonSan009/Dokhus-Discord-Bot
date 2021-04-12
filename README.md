@@ -28,6 +28,5 @@ in progress.
 * Java SE 1.8
 * Maven 4
 * JUnit 5.7.1
-* [Junit-Pioneer 1.3.8](https://github.com/junit-pioneer/junit-pioneer) 
 * [JavaCord 3.3.0](https://github.com/Javacord/Javacord)
-* [Dotenv](https://github.com/cdimascio/dotenv-java)
+* [Dotenv 2.2.0](https://github.com/cdimascio/dotenv-java)
